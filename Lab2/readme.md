@@ -4,7 +4,7 @@ Include your executive summary here...
 ### Hardware
 ##### Hard Drives and Memory
 ##### ALU and the Control Unit
-##### CUP, Input & Output
+##### CPU, Input & Output
 ##### Logic Gates and Circuits
 ##### IEEE
 

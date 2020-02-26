@@ -5,8 +5,6 @@ Include your executive summary here...
 
 ### Object Oriented Programming (OOP)
 
-### Unified Modeling Language (UML)
-
 ### Conclusion
 Include your conclusion here...
 
